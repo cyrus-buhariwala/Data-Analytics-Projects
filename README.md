@@ -8,4 +8,20 @@ Throughout my career, I have demonstrated the ability to work with messy and com
 
 I work well individually or as part of a team. I truly enjoy coaching and mentoring others, and gaining fresh perspectives from other team members.
 
-This page is a way to demonstrate my skills to prospective employers. My CV has also been added to this page.
+This page is a way to demonstrate my skills to prospective employers. [My CV can be found here] (CB Resumé 2026.pdf).
+
+## Portfolio Projects
+
+### Analyzing Bank Marketing Campaign
+
+Code:
+
+Goal:
+
+Description:
+
+Skills:
+
+Technology:
+
+Results:
