@@ -14,7 +14,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 ### Analyzing Bank Marketing Campaign
 
-**Code:
+**Code:**
 
 ** Goal:
 
