@@ -25,3 +25,13 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 **Technology:**
 
 **Results:**
+
+## Education
+
+University of Waterloo – Waterloo, Ontario
+•	Master of Mathematics (Statistics) – Quantitative Finance, 2018
+•	Bachelor of Mathematics (Honours) – Mathematical Economics, 2015
+
+## Contact
+•	LinkedIn: https://www.linkedin.com/in/cyrus-buhariwala-12987a3a5/
+•	Email: cyrus.buhariwala@gmail.com
