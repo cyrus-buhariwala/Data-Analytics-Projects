@@ -16,7 +16,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 **Code:**
 
-**Goal:** The goal is to build a predictive model to determine if a client will subscribe to a term deposit, a deposit that the bank offers with a favourable fixed rate.
+**Goal:** The goal is to build a predictive model to determine if a client will subscribe to an offer for a term deposit, a deposit that the bank offers with a favourable fixed rate.
 
 **Description:** I will be analyzing data that is related to a direct marketing campaign (phone calls) of a banking institution. The target variable is 'y' (yes/no), which indicates whether the client subscribed to a term deposit.
 
