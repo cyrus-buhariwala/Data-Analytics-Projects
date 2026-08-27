@@ -16,15 +16,15 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 **Code:**
 
-**Goal:**
+**Goal:** The goal is to build a predictive model to determine if a client will subscribe to a term deposit, a deposit that the bank offers with a favourable fixed rate.
 
-**Description:**
+**Description:** I will be analyzing data that is related to a direct marketing campaign (phone calls) of a banking institution. The target variable is 'y' (yes/no), which indicates whether the client subscribed to a term deposit.
 
-**Skills:**
+**Skills:** Data Cleaning, EDA, Data Visualization, ML Model Building
 
-**Technology:**
+**Technology:** Python
 
-**Results:**
+**Results:** The project has resulted in a predictive model that has a 95% accuracy rate. Based on this, the bank can more effectively target clients based on their personal information. This will lead to savings in the advertising budget, since skipping low-scoring customers entirely will avoid wasting money on uninterested people.
 
 ## Education
 
