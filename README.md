@@ -22,7 +22,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 **Skills:** Data Cleaning, EDA, Data Visualization, ML Model Building
 
-**Technology:** Python
+**Technology:** Python (numpy, pandas, seaborn, matplotlib, scipy)
 
 **Results:** The project has resulted in a predictive model that has a 95% accuracy rate. Based on this, the bank can more effectively target clients based on their personal information. This will lead to savings in the advertising budget, since skipping low-scoring customers entirely will avoid wasting money on uninterested people.
 
