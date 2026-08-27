@@ -29,7 +29,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 ## Education
 
 ### University of Waterloo – Waterloo, Ontario
-•	Master of Mathematics (Statistics) – Quantitative Finance, 2018
+•	Master of Mathematics (Statistics) – Quantitative Finance, 2018\
 •	Bachelor of Mathematics (Honours) – Mathematical Economics, 2015
 
 ## Contact
