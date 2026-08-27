@@ -8,7 +8,7 @@ Throughout my career, I have demonstrated the ability to work with messy and com
 
 I work well individually or as part of a team. I truly enjoy coaching and mentoring others, and gaining fresh perspectives from other team members.
 
-This page is a way to demonstrate my skills to prospective employers. [My CV can be found here](CB Resumé 2026.pdf](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/CB%20Resume%CC%81%202026.pdf).
+This page is a way to demonstrate my skills to prospective employers. [My CV can be found here](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/CB%20Resume%CC%81%202026.pdf).
 
 ## Portfolio Projects
 
