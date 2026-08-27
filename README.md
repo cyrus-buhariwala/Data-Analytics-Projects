@@ -33,5 +33,5 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 •	Bachelor of Mathematics (Honours) – Mathematical Economics, 2015
 
 ## Contact
-•	LinkedIn: https://www.linkedin.com/in/cyrus-buhariwala-12987a3a5/
+•	LinkedIn: https://www.linkedin.com/in/cyrus-buhariwala-12987a3a5/\
 •	Email: cyrus.buhariwala@gmail.com
