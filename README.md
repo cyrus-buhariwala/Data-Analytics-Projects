@@ -14,7 +14,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 ### Analyzing Bank Marketing Campaign
 
-**Code:** https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Bank%20Marketing%20Analysis.ipynb
+**Code:** [Banking Analysis.ipynb](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Bank%20Marketing%20Analysis.ipynb).
 
 **Goal:** The goal is to build a predictive model to determine if a client will subscribe to an offer for a term deposit, a deposit that the bank offers with a favourable fixed rate.
 
