@@ -16,12 +16,12 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 **Code:**
 
-** Goal:
+**Goal:**
 
-**Description:
+**Description:**
 
-** Skills:
+**Skills:**
 
-** Technology:
+**Technology:**
 
-** Results:
+**Results:**
