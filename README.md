@@ -14,7 +14,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 ### Analyzing Bank Marketing Campaign with Python
 
-**Code:** [Banking Marketing Analysis.ipynb](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Bank%20Marketing%20Analysis.ipynb).
+**Code:** [Banking Marketing Analysis.ipynb](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Bank%20Marketing%20Analysis.ipynb)
 
 **Description:** I will be analyzing data that is related to a direct marketing campaign (phone calls) of a banking institution. The target variable is 'y' (yes/no), which indicates whether the client subscribed to a term deposit.
 
@@ -28,7 +28,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 ### E-Commerce Marketing Analysis with SQL
 
-**Code:** [E-Commerce Sales Analysis.sql](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/E-Commerce%20Sales%20Analysis.sql).
+**Code:** [E-Commerce Sales Analysis.sql](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/E-Commerce%20Sales%20Analysis.sql)
 
 **Description:** This exercise involves analyzing activity from an e-commerce website. The data was found online from a free data repository.
 
