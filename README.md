@@ -42,7 +42,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 Social media ads are driving traffic at the top of the funnel, but they are not bringing in high-intent users (only 6.9% of viewers make purchases). Email advertising is the most effective method for converting views into purchases, as almost 34% of viewers make purchases. My recommendation would therefore be to focus efforts more on the email campaign.
 
-Lastly, we can compare the revenue per order by traffic source to the CAC. If your CAC is higher than the total revenue a customer generates from that channel, we are losing money on that traffic source.
+Lastly, we can compare the revenue per order by traffic source to the CAC. If the CAC is higher than the total revenue a customer generates from that channel, we are losing money on that traffic source.
 
 ## Education
 
