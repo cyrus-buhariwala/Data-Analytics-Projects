@@ -38,11 +38,25 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 **Technology:** SQL
 
-**Results:** The website design and payment processing appear to work well (over 90% coversion rate for payment info to purchase stages, and over 80% conversion from checkout to purchase stages). This indicates the payment flow is frictionless, and these pages do not need to be redesigned.
+**Results:** The website design and payment processing appear to work well (over 90% conversion rate for payment info to purchase stages, and over 80% conversion from checkout to purchase stages). This indicates the payment flow is frictionless, and these pages do not need to be redesigned.
 
 Social media ads are driving traffic at the top of the funnel, but they are not bringing in high-intent users (only 6.9% of viewers make purchases). Email advertising is the most effective method for converting views into purchases, as almost 34% of viewers make purchases. My recommendation would therefore be to focus efforts more on the email campaign.
 
 Lastly, we can compare the revenue per order by traffic source to the CAC. If the CAC is higher than the total revenue customers generate from that channel, we are losing money on that traffic source.
+
+### Insurance Claims Dashboard in Power BI
+
+**File:** [Fraudulent Claims Dashboard.pbix](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Fraudulent%20Claims%20Dashboard.pbix)
+
+**Description:** This is a Power BI dashboard for a high-level overview of home and auto claims and fraudulent claims. The data was sourced from a free repository online.
+
+**Goal:** The goal for this exercise is to create a visual representation of the claims by claim type, by claim date, and the fraud rate. There is a slicer included to filter out the claims by date.
+
+**Skills:** Data Cleaning, Measures, DAX, Power Query, Data Visualization
+
+**Technology:** Power BI
+
+**Results:** This is a simple task to show data visualization capabilities. I have created a dashboard from a .csv upload.
 
 ## Education
 
