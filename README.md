@@ -62,7 +62,8 @@ Lastly, we can compare the revenue per order by traffic source to the CAC. If th
 
 ### University of Waterloo – Waterloo, Ontario
 •	Master of Mathematics (Statistics) – Quantitative Finance, 2018\
-•	Bachelor of Mathematics (Honours) – Mathematical Economics, 2015
+•	Bachelor of Mathematics (Honours) – Mathematical Economics, 2015\
+•	Microsoft PL-300 Certification
 
 ## Contact
 •	LinkedIn: https://www.linkedin.com/in/cyrus-buhariwala-12987a3a5/ \
