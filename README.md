@@ -12,7 +12,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 ## Portfolio Projects
 
-### Analyzing Bank Marketing Campaign with Python
+### 1) Analyzing Bank Marketing Campaign with Python
 
 **Code:** [Banking Marketing Analysis.ipynb](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Bank%20Marketing%20Analysis.ipynb)
 
@@ -26,7 +26,7 @@ This page is a way to demonstrate my skills to prospective employers. [My CV can
 
 **Results:** The project has resulted in a predictive model that has a 95% accuracy rate in predicting whether a client will sign-up for the term deposit promotion. Based on this, the bank can more effectively target clients based on their personal information. This will lead to savings in the advertising budget, since skipping low-scoring customers entirely will avoid wasting resources (time/money) reaching out to people who are likely to be uninterested.
 
-### E-Commerce Marketing Analysis with SQL
+### 2) E-Commerce Marketing Analysis with SQL
 
 **Code:** [E-Commerce Sales Analysis.sql](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/E-Commerce%20Sales%20Analysis.sql)
 
@@ -44,7 +44,7 @@ Social media ads are driving traffic at the top of the funnel, but they are not 
 
 Lastly, we can compare the revenue per order by traffic source to the CAC. If the CAC is higher than the total revenue customers generate from that channel, we are losing money on that traffic source.
 
-### Online Retail Analysis with SQL
+### 3) Online Retail Analysis with SQL
 
 **Code:** [Online Retailer Analysis.sql](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Online%20Retailer%20Analysis.sql)
 
@@ -66,7 +66,31 @@ Customers located in Toronto and Ottawa exhibit the highest purchase frequency, 
 
 The Accessories category produces relatively low revenue but high sales volume, implying that these products are popular but low‑margin, and may be ideal candidates for promotional bundles or upsell strategies.
 
-### Insurance Claims Dashboard in Power BI
+### 4) Customer Churn Analysis Using Python
+
+**Code:** [Customer Churn Analysis Using Python]()
+
+**Description:** This project analyzes customer churn in a telecom company using Python, focusing on identifying the behavioral, financial, and service‑related factors that contribute to customer cancellations.
+
+**Goal:** The goal of this project is to use Python to analyze customer churn patterns, identify the key drivers behind customer cancellations, and provide actionable insights that help businesses reduce churn and improve retention strategies.
+
+**Skills:** Data cleaning, Exploratory data analysis (EDA), Visualization, Feature correlation, Insight generation, Business storytelling
+
+**Technology:** Python (numpy, pandas, seaborn, matplotlib)
+
+**Results:** Customers on month‑to‑month contracts churn significantly more often than those on one‑year or two‑year contracts, indicating that contract flexibility increases cancellation risk.
+
+Higher monthly charges are strongly associated with churn, suggesting that pricing pressure is a major driver of customer loss.
+
+Customers with short tenure (less than 6 months) show the highest churn rates, revealing that early‑stage customer experience is critical for retention.
+
+Fiber‑optic internet customers churn more frequently than DSL customers, implying potential dissatisfaction with service quality or pricing in that segment.
+
+Senior citizens exhibit slightly higher churn rates, indicating that this demographic may require more personalized support or targeted retention strategies.
+
+Customers without additional services (e.g., streaming, security, tech support) are more likely to churn, suggesting that bundled offerings improve retention.
+
+### 5) Insurance Claims Dashboard in Power BI
 
 **File:** [Fraudulent Claims Dashboard.pbix](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Fraudulent%20Claims%20Dashboard.pbix)
 
