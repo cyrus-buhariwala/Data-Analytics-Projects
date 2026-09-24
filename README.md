@@ -44,6 +44,28 @@ Social media ads are driving traffic at the top of the funnel, but they are not 
 
 Lastly, we can compare the revenue per order by traffic source to the CAC. If the CAC is higher than the total revenue customers generate from that channel, we are losing money on that traffic source.
 
+### Online Retail Analysis with SQL
+
+**Code:** [Online Retailer Analysis.sql](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Online%20Retailer%20Analysis.sql)
+
+**Description:** This project analyzes a retail store’s sales, customers, and product performance using SQL. The data was found on a free data repository online.
+
+**Goal:** The goal of this project is to use SQL to transform raw retail data into clear, actionable business insights by cleaning the data, analyzing customer behavior, evaluating product performance, and calculating key performance indicators that help decision‑makers understand sales trends and opportunities for growth.
+
+**Skills:** Data modeling, Data cleaning, Exploratory SQL analysis, Business KPI calculation, Customer segmentation, Insight generation
+
+**Technology:** SQL
+
+**Results:** The Electronics category generates the highest overall revenue, indicating that it is the store’s strongest product line and a major driver of sales performance.
+
+The top 10 percent of customers account for approximately 45 percent of total revenue, showing a strong reliance on a small group of high‑value customers and highlighting the importance of targeted retention strategies.
+
+The average order value is $78.20, suggesting that customers typically make moderately sized purchases and that there may be opportunities to increase basket size through cross‑selling or bundling.
+
+Customers located in Toronto and Ottawa exhibit the highest purchase frequency, making these cities key geographic markets for marketing campaigns and promotional efforts.
+
+The Accessories category produces relatively low revenue but high sales volume, implying that these products are popular but low‑margin, and may be ideal candidates for promotional bundles or upsell strategies.
+
 ### Insurance Claims Dashboard in Power BI
 
 **File:** [Fraudulent Claims Dashboard.pbix](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/Fraudulent%20Claims%20Dashboard.pbix)
