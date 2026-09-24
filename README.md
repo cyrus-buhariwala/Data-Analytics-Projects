@@ -68,7 +68,7 @@ The Accessories category produces relatively low revenue but high sales volume, 
 
 ### 4) Customer Churn Analysis Using Python
 
-**Code:** [Customer Churn Analysis Using Python]()
+**Code:** [Customer Churn Analysis Using Python](https://github.com/cyrus-buhariwala/Data-Analytics-Projects/blob/main/churn_analysis.ipynb)
 
 **Description:** This project analyzes customer churn in a telecom company using Python, focusing on identifying the behavioral, financial, and service‑related factors that contribute to customer cancellations.
 
